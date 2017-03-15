@@ -1,0 +1,5 @@
+c:\users\tempest\documents\visual studio 2015\Projects\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe.config
+c:\users\tempest\documents\visual studio 2015\Projects\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe
+c:\users\tempest\documents\visual studio 2015\Projects\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.pdb
+c:\users\tempest\documents\visual studio 2015\Projects\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.exe
+c:\users\tempest\documents\visual studio 2015\Projects\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.pdb

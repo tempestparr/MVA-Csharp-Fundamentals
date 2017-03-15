@@ -1,0 +1,6 @@
+c:\users\tempest\documents\visual studio 2015\Projects\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe.config
+c:\users\tempest\documents\visual studio 2015\Projects\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe
+c:\users\tempest\documents\visual studio 2015\Projects\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.pdb
+c:\users\tempest\documents\visual studio 2015\Projects\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csprojResolveAssemblyReference.cache
+c:\users\tempest\documents\visual studio 2015\Projects\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.exe
+c:\users\tempest\documents\visual studio 2015\Projects\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.pdb

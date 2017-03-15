@@ -1,0 +1,5 @@
+c:\users\tempest\documents\visual studio 2015\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+c:\users\tempest\documents\visual studio 2015\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+c:\users\tempest\documents\visual studio 2015\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+c:\users\tempest\documents\visual studio 2015\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+c:\users\tempest\documents\visual studio 2015\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb

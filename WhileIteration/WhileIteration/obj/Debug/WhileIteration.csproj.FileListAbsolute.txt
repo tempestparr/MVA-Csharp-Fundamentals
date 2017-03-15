@@ -1,0 +1,6 @@
+c:\users\tempest\documents\visual studio 2015\Projects\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+c:\users\tempest\documents\visual studio 2015\Projects\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe
+c:\users\tempest\documents\visual studio 2015\Projects\WhileIteration\WhileIteration\bin\Debug\WhileIteration.pdb
+c:\users\tempest\documents\visual studio 2015\Projects\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csprojResolveAssemblyReference.cache
+c:\users\tempest\documents\visual studio 2015\Projects\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+c:\users\tempest\documents\visual studio 2015\Projects\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb

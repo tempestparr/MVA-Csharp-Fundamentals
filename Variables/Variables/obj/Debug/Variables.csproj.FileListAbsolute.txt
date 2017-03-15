@@ -1,0 +1,6 @@
+c:\users\tempest\documents\visual studio 2015\Projects\Variables\Variables\bin\Debug\Variables.exe.config
+c:\users\tempest\documents\visual studio 2015\Projects\Variables\Variables\bin\Debug\Variables.exe
+c:\users\tempest\documents\visual studio 2015\Projects\Variables\Variables\bin\Debug\Variables.pdb
+c:\users\tempest\documents\visual studio 2015\Projects\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+c:\users\tempest\documents\visual studio 2015\Projects\Variables\Variables\obj\Debug\Variables.exe
+c:\users\tempest\documents\visual studio 2015\Projects\Variables\Variables\obj\Debug\Variables.pdb

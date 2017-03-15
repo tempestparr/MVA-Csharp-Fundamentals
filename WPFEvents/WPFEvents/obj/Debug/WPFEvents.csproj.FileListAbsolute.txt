@@ -1,0 +1,14 @@
+c:\users\tempest\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe.config
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\bin\Debug\WPFEvents.pdb
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csprojResolveAssemblyReference.cache
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\MainWindow.g.cs
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\App.g.cs
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents_MarkupCompile.cache
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents_MarkupCompile.lref
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\MainWindow.baml
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents.g.resources
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents.Properties.Resources.resources
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csproj.GenerateResource.Cache
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents.exe
+C:\Users\Tempest\Documents\Visual Studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents.pdb

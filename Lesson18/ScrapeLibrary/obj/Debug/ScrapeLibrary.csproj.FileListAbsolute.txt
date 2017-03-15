@@ -1,0 +1,4 @@
+c:\users\tempest\documents\visual studio 2015\Projects\Lesson18\ScrapeLibrary\bin\Debug\ScrapeLibrary.dll
+c:\users\tempest\documents\visual studio 2015\Projects\Lesson18\ScrapeLibrary\bin\Debug\ScrapeLibrary.pdb
+c:\users\tempest\documents\visual studio 2015\Projects\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.dll
+c:\users\tempest\documents\visual studio 2015\Projects\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.pdb
